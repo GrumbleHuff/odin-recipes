@@ -1,0 +1,27 @@
+.recipe{
+    max-width: 50%;
+    width:fit-content;
+    margin:80px auto;
+    height: auto;
+    padding-right: 70px;
+    padding-left: 70px;
+    padding-bottom: 30px;
+    padding-top: 15px;
+    border: 5px solid gray;
+    background-color: lightgray;
+    font-family: Agbalumo, Garamond, serif;
+    font-size: 40px;
+}
+
+.recipe.pumpkinpie{
+    background-image: url('../img/pumpkinpie.webp');
+    background-size:cover;
+}
+.recipe.pecanpie{
+    background-image: url('../img/pecanpie.webp');
+    background-size:cover;
+}
+.recipe.bananacreampie{
+    background-image: url('../img/bananacreampie.webp');
+    background-size:cover;
+}
